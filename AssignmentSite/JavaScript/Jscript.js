@@ -90,7 +90,7 @@
         opacity: .3,
         title: "Los Angeles County Hazards"
     });
-
+    //test
     SalMap.add(MapIMGlyr); //adds dynamic map image to the map   
 
     //Set up the legend, referencing your feature layer(s)
